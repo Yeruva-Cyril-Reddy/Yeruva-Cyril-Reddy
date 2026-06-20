@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-white?style=for-the-badge&labelColor=000000"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-6.3%20%2F%2010-white?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/CGPA-6.1%20%2F%2010-white?style=for-the-badge&labelColor=000000"/>
   &nbsp;
   <img src="https://img.shields.io/badge/VIT--AP-Andhra%20Pradesh-white?style=for-the-badge&labelColor=000000&logo=googlemaps&logoColor=white"/>
   &nbsp;
