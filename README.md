@@ -136,7 +136,7 @@ A responsive front-end web project focused on delivering a clean and interactive
 ```yaml
 engineer:
   name: Yeruva Cyril Reddy
-  degree: B.Tech — Computer Science · CGPA 6.3 · 2022–2026
+  degree: B.Tech — Computer Science · CGPA 6.1 · 2022–2026
   status: Actively Seeking SDE Roles
 
 roles_targeting:
